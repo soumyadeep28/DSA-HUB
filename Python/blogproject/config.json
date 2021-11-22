@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "Project_name": "CodingSlasher",
+    "local_server": "True",
+    "local_url": "mysql://root:@localhost/codingslasher",
+    "prod_url": "mysql://root:@localhost/codingslasher",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gt_url": "https://github.com",
+    "gmail-user":"soumya.sen.001.gupta@gmail.com",
+    "gmail-password":"C0mmunication@01",
+    "no_post": 5,
+    "admin_user": "root",
+    "admin_password": "password"
+
+  }
+
+}

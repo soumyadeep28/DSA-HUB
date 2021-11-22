@@ -1,0 +1,6 @@
+file1 = open("mytest.txt" , "wb")
+print(file1)
+print(file1.mode)
+print(file1.name)
+file1.write(bytes("write this file" , "UTF-8"))
+file1.close()
